@@ -1,3 +1,5 @@
 # c-programming-language-kandr
 
-Code examples and excersises from the Kernighan and Ritchie C programming language 2nd Ed
+
+Codigo y resolucion de algunos ejercicios del Libro de Programacion en C de Kernighan and Ritchie 2nd Ed
+
